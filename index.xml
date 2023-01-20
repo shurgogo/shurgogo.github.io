@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://shurgogo.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Jan 2023 18:07:35 +0800</lastBuildDate><atom:link href="https://shurgogo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirst</title>
+      <link>https://shurgogo.github.io/post/myfirst/</link>
+      <pubDate>Fri, 20 Jan 2023 18:07:35 +0800</pubDate>
+      
+      <guid>https://shurgogo.github.io/post/myfirst/</guid>
+      <description> 安装 hugo brew install hugo 使用 hugo 建一个网站，在 Downloads 文件夹下 cd ~/Downloads hugo new site mysite 以上命令会在 Downloads 目录下生成一个 mysite 文件夹，目录树如下：
+. ├── archetypes │ └── default. md ├── assets ├── config. toml // 需要配置的文件 ├── content // 博客存放位置 ├── data ├── layouts ├── public ├── static // 图片存放位置 └── themes // 主题存放位置 查找并使用主题 https://themes.gohugo.io </description>
+    </item>
+    
+  </channel>
+</rss>
